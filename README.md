@@ -16,6 +16,6 @@
 The supplied Mumbai listing dataset is in `data/Mumbai_property_details.csv`. Listings are not verified sale transactions. Purchase prices are estimated as parsed area × the user's assumed price per square foot. Yield and payback values are scenario estimates, not investment advice. The Area field may contain multiple numbers; the app uses the first numeric value.
 
 ## Credit
-Built by **Ananya Terwadkar** as a university project.
+Built by **Ananya Terwadkar** 
 
 The hero and card-preview photos and Google Fonts are loaded from external sources and may require an internet connection. The 3D cards are CSS-based interface mockups; they are not screenshots of separate deployed pages.
