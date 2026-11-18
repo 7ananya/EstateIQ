@@ -19,3 +19,5 @@ The supplied Mumbai listing dataset is in `data/Mumbai_property_details.csv`. Li
 Built by **Ananya Terwadkar** 
 
 The hero and card-preview photos and Google Fonts are loaded from external sources and may require an internet connection. The 3D cards are CSS-based interface mockups; they are not screenshots of separate deployed pages.
+
+lIVE DEMO : https://estateiq-mumbai.streamlit.app/
